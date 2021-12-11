@@ -1,0 +1,31 @@
+﻿  drawing.cpp
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(44,18): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(54,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(54,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(55,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(55,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(56,18): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(133,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(136,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(136,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(136,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(136,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(136,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(141,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(141,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(141,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(141,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(142,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(142,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(142,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(142,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(143,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(143,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(144,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\Desktop\AC Full\AC Full\drawing.cpp(144,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 35 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AC Full.vcxproj -> C:\Users\Ryan\Desktop\AC Full\Release\AC Full.exe
