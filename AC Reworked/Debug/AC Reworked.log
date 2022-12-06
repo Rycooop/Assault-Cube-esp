@@ -1,0 +1,21 @@
+﻿  game.cpp
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(12,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(13,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(17,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(17,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(21,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(21,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(50,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(51,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(52,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(56,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(56,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(56,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(60,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(60,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(60,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(93,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(94,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(95,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rycoo\Desktop\AC Reworked\AC Reworked\vector.h(96,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  AC Reworked.vcxproj -> C:\Users\rycoo\Desktop\AC Reworked\Debug\AC Reworked.exe

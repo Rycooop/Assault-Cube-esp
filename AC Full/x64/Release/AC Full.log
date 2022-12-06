@@ -1,9 +1,0 @@
-﻿  Source.cpp
-C:\Users\Ryan\Desktop\AC Full\AC Full\Source.cpp(197,62): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
-  util.cpp
-  Generating code
-  2 of 21 functions ( 9.5%) were compiled, the rest were copied from previous compilation.
-    1 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  AC Full.vcxproj -> C:\Users\Ryan\Desktop\AC Full\x64\Release\AC Full.exe
